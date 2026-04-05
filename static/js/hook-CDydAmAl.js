@@ -1,0 +1,1 @@
+import{t as e}from"./hook-BGiDCRvp.js";export{e as useTenantList};

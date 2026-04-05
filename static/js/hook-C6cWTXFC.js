@@ -1,0 +1,1 @@
+import{t as e}from"./hook-BLdKVlFJ.js";export{e as useDict};

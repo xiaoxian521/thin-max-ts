@@ -1,0 +1,1 @@
+import{t as e}from"./hook-CmgM9ORH2.js";export{e as useTenantPackage};
